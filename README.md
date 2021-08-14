@@ -1,0 +1,2 @@
+# Simon-Game
+I was curios of making this game by my own and finally with the help of JavaScript that curiosity came to life. This game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with lights and sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.
